@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/6502emu.dir/main.cpp.o -o 6502emu 
