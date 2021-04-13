@@ -1,3 +1,0 @@
-/home/amr/CLionProjects/6502emu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/amr/CLionProjects/6502emu/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/amr/CLionProjects/6502emu/cmake-build-debug/CMakeFiles/6502emu.dir
